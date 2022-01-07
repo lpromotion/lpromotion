@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![lpromotion's GitHub stats](https://github-readme-stats.vercel.app/api?username=lpromotion&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lpromotion)](https://github.com/lpromotion/github-readme-stats)
